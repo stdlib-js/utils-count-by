@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/utils-count-by",
-  "version": "0.0.8",
+  "version": "0.0.0",
   "description": "Group values according to an indicator function and return group counts.",
   "license": "Apache-2.0",
   "author": {
@@ -41,6 +41,7 @@
     "@stdlib/assert-is-collection": "^0.0.x",
     "@stdlib/assert-is-function": "^0.0.x",
     "@stdlib/assert-is-plain-object": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x"
   },
   "devDependencies": {
