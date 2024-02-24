@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import countBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-count-by@deno/mod.js';
+import countBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-count-by@v0.2.1-deno/mod.js';
 ```
 
 #### countBy( collection, \[options,] indicator )
@@ -152,7 +152,7 @@ console.log( context.count );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import floor from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-floor@deno/mod.js';
-import countBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-count-by@deno/mod.js';
+import countBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils-count-by@v0.2.1-deno/mod.js';
 
 var vals;
 var arr;
